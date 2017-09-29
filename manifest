@@ -28,4 +28,4 @@
 # Tents
 #
 # =====================================================================
-ssh://htpc/data/git/gear/tents/black-diamond   black-diamond
+ssh://git@github.com/marcilr/black-diamond   black-diamond
